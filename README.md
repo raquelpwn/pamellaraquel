@@ -13,19 +13,15 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 #
 
-<div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  <a href="https://github.com/raquelpwn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raquelpwn&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquelpwn&layout=compact&langs_count=16&theme=cobalt"/>
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <a href="https://github.com/raquelpwn">
+      <img src="https://github-readme-stats.vercel.app/api?username=raquelpwn&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" width="400"/>
+    </a>
+    <a href="https://github.com/raquelpwn">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquelpwn&layout=compact&langs_count=16&theme=cobalt" width="400"/>
+    </a>
+  </div>
 </div>
-
-
-<h3 align="left">Connect with me!</h3>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/pamella-raquel-69799431a/)
-
-<h3 align="left">My Stack ~</h3>
 
 <div align="left">
 <div style="display: inline_block"><br>
@@ -33,18 +29,11 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img width="8" />
 </div>
 
-# 
-
-<div>
-  <a href="https://www.linkedin.com/in/pamella-raquel-69799431a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
 #
 
-  <a href="https://github.com/raquelpwn/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raquelpwn&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
-  </a>
-</div>
+<h3 align="left">Connect with me!</h3>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/pamella-raquel-69799431a/)
 
 #
 
