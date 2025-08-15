@@ -1,16 +1,30 @@
-# Oii! Me chamo Pamella Raquel
-
-- 💻 Estudante de Ciência da Computação
-- 🐍 Estudando Python
-
-<div>
-  <a href="https://github.com/raquelpwn">
-  <img heigh="180em" src="https://github-readme-stats.vercel.app/api?username=raquelpwn&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img heigh="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquelpwn&layout=compact&langs_count=16&theme=cobalt"/>  
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
 </div>
 
+<img align="center" alt="" src="./src/header-gif.gif">
+
+#
+
+<p align="center">Estudante de Ciência da Computação. Atualmente me aprimorando em cursos de T.I e estudando Python paralelamente.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+
+#
+
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
+<h3 align="left">Connect with me!</h3>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/pamella-raquel-69799431a/)
+
+<h3 align="left">My Stack ~</h3>
+
+<div align="left">
 <div style="display: inline_block"><br>
-  <img align="center" alt="Pam-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Pam-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python logo"/>
+  <img width="8" />
 </div>
 
 # 
